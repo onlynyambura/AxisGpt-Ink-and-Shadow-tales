@@ -1,8 +1,7 @@
 # AxisGpt-Ink-and-Shadow-tales
-AI-powered shadow work platform featuring AxisGPT for deep psychological exploration and personal transformation"
-# AxisGPT - Ink and Shadow Tales
+![GitHub release](https://img.shields.io/github/v/release/onlynyambura/AxisGpt-Ink-and-Shadow-tales)
 
-An AI-powered shadow work platform for deep psychological exploration and personal transformation.
+AI-powered shadow work platform featuring AxisGPT for deep psychological exploration and personal transformation
 
 🌐 **Live Platform**: https://inkandshadowtales.com/
 
