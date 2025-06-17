@@ -4,7 +4,7 @@ AI-powered shadow work platform featuring AxisGPT for deep psychological explora
 
 An AI-powered shadow work platform for deep psychological exploration and personal transformation.
 
-🌐 **Live Platform**: [https://houseofshadows.inkandshadowtales.com/](https://houseofshadows.inkandshadowtales.com/)
+🌐 **Live Platform**: https://inkandshadowtales.com/
 
 ## Overview
 
