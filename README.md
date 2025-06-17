@@ -36,11 +36,28 @@ AxisGPT is a sophisticated shadow work companion that guides users through depth
 - Wound interconnection insights
 
 ### 🎯 Core Features
-- **cARL JUNG FRAMEWORK Framework**: Systematic exploration of fundamental wounds
-- Shadowwork framework
-- **Integration Tracking**: Monitor progress across spiritual, mental, emotional, and physical dimensions
-- **Pattern Recognition**: AI-powered insight extraction from conversations
-- **Breakthrough Moments**: Capture and analyze transformation points
+
+#### 🧠 Jungian Shadow Work Framework
+- **Carl Jung's Depth Psychology**: Authentic shadow integration based on Jungian principles
+- **Active Imagination Dialogue**: AI-facilitated conversations with shadow aspects
+- **Archetypal Pattern Recognition**: Connect personal shadows to universal themes
+
+#### 📊 Multi-Dimensional Integration
+- **Four-Body Tracking System**: Monitor progress across spiritual, mental, emotional, and physical dimensions
+- **Pattern Recognition**: AI identifies recurring themes and resistance patterns
+- **Breakthrough Moments**: Capture and timestamp transformation points
+
+#### 🔮 Unique AxisGPT Features
+- **Compliance Lock**: No premature insights - depth emerges through authentic sharing
+- **Tiered Memory System**: From ephemeral (Portal) to full archaeological mapping (Forge)
+- **Integration Milestones**: Track and celebrate shadow reclamation progress
+- **Creator Override Protocols**: Special depth access for advanced practitioners
+
+#### 🛡️ Ethical Safeguards
+- **Compliance Lock**: No premature interpretation without context
+- **Emotional Safety Protocols**: Grounding techniques for intense work
+- **Creator Override**: Special protocols for deep dive sessions
+- **Privacy First**: Tiered data retention respecting user boundaries
 
 ## Technology Stack
 
