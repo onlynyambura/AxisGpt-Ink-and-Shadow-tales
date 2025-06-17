@@ -19,17 +19,17 @@ AxisGPT is a sophisticated shadow work companion that guides users through depth
 
 ### 📊 Three-Tier Journey System
 
-#### Portal (Free)
+#### Portal ($3.33)
 - Pure shadow work conversations
 - Ephemeral sessions for immediate insight
 - No tracking - complete presence
 
-#### Crucible ($29/month)
+#### Crucible ($9.99/month)
 - 30-day pattern recognition
 - Growth insights and wound progress tracking
 - Monthly shadow work analytics
 
-#### Forge ($49/month)
+#### Forge ($15.15/month)
 - Lifetime pattern analysis
 - Archetypal mapping
 - Four-dimensional integration tracking
